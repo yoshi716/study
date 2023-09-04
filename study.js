@@ -1,4 +1,4 @@
-$(document).ready(function(){
+$(window).on('load',function(){
 
 
     $('#first-line').fadeIn(500).delay(1000).fadeOut(500);

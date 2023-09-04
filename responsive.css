@@ -2,4 +2,9 @@
     header{
         display:none;
     }
+
+    main{
+        margin:30px 10px;
+    
+    }
 }

@@ -5,7 +5,7 @@ $(window).on('load',function(){
 
     $('#second-line').delay(2000).fadeIn(500).delay(1000).fadeOut(500);
 
-    $('#first-showrapper').delay(4000).fadeOut(500);
+    $('#first-showwrapper').delay(4000).fadeOut(500);
 
     $('#second-show').delay(4000).fadeIn(500);
     
